@@ -7,4 +7,4 @@
 # $ apt install git
 # $ git clone https://github.com/BlackHat-Code/BruteForce-Toolkit
 # $ cd BruteForce-Toolkit
-# $ php BruteForce-Toolkit.php
+# $ php FBToolkit.php
